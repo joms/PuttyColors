@@ -5,6 +5,12 @@ A Solarized Dark theme modified for use with Putty
 
 **Note:** Still needs some adjustments, and will probably need an Irssi theme too
 
+#### Needed adjustments:
+* Hilights are very very hard to read
+* Own nick is too dark
+* General text is too dark
+* Bold cyan should be more subtle
+
 ### Colors and indexes in Putty
 
 | Changed | Index | Name | Comment |
