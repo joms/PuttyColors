@@ -3,7 +3,7 @@ PuttyColors
 
 A Solarized Dark theme modified for use with Putty
 
-** Note: ** Still needs some adjustments, and will probably need an Irssi theme too
+**Note:** Still needs some adjustments, and will probably need an Irssi theme too
 
 ### Colors and indexes in Putty
 
