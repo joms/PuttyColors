@@ -7,7 +7,8 @@ Right now it only supports sessions from files using PuTTY Tray.
 
 ### Installation
 Under saved sessions in PuTTY Tray, select *Sessions from file*. When saving sessions, you will now find them in a folder called *Sessions* in the same folder as putty.exe is run from.   
-Open the file with a name representing your sessions' name in a text editor, and switch out the colorcodes with the ones you find in [solarized_dark_puttytray.txt](https://github.com/joms/PuttyColors/blob/master/solarized_dark_puttytray.txt)
+Open the file with a name representing your sessions' name in a text editor, and switch out the colorcodes with the ones you find in [solarized_dark_puttytray.txt](https://github.com/joms/PuttyColors/blob/master/solarized_dark_puttytray.txt).   
+Reopen PuTTY Tray, and you're good to go!
 
 ### Colors and indexes in Putty
 
