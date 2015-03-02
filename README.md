@@ -10,6 +10,8 @@ Under saved sessions in PuTTY Tray, select *Sessions from file*. When saving ses
 Open the file with a name representing your sessions' name in a text editor, and switch out the colorcodes with the ones you find in [solarized_dark_puttytray.txt](https://github.com/joms/PuttyColors/blob/master/solarized_dark_puttytray.txt).   
 Reopen PuTTY Tray, and you're good to go!
 
+[Screenshot of _Sessions from file_](http://i.imgur.com/4xzZQDH.png)
+
 ### Colors and indexes in Putty
 
 | Index | Name |
@@ -36,3 +38,7 @@ Reopen PuTTY Tray, and you're good to go!
 | 2 | Default background |
 | 1 | Default bold foreground |
 | 0 | Default foreground |
+
+### How does it look like?
+
+![In action](http://i.imgur.com/trTzbX0.png)
